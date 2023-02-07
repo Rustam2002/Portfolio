@@ -310,7 +310,7 @@ nav{
 }
 .portfolio_text button{
     background-color: transparent;
-    border: 3.5px solid white;
+    border: .3vw solid white;
     padding: .6vw 1.5vw;
     font-size: 1.3vw;
     transition: 0.4s ease-in-out;
