@@ -405,3 +405,40 @@ footer ul li.active{
     justify-content: center;
     align-items: center;
 }
+/* @media(min-width:1600px){
+    section{
+        padding:0  10vw;
+    }
+} */
+
+.portfolio_full{
+    background-color: #0a152f;
+    width: 100%;
+    padding-bottom: 4vw;
+}
+.main_blocks_full{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    justify-content: space-around;
+}
+.main_blocks_full div{
+    margin-top: 5vw;
+}
+.main_blocks_full div img{
+    width: 40vw;
+}
+.full_text{
+    width: 38vw;
+    text-align: center;
+    margin: auto;
+    margin-top: 2vw !important;
+}
+.full_text h1{
+    font-size: 2vw;
+    padding-bottom: 1vw;
+}
+.full_text p{
+    font-size: 1.3vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
